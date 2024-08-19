@@ -855,12 +855,14 @@ header.main-header .header-sticky.active{
 	padding: 20px 20px 40px 20px;
 	height: calc(100% - 30px);
     margin-bottom: 30px;
+
 }
 
 .works-image{
 	margin-bottom: 30px;
 	border-radius: 30px;
 	overflow: hidden;
+  
 }
 
 .works-image img{
