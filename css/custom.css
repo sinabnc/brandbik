@@ -186,7 +186,7 @@ body{
 	background: #3870fe;
 	text-transform: capitalize;
 	padding: 15px 45px 15px 20px;
-	border: 2px solid var(--accent-color);
+	border: 2px solid #3870fe;
 	border-radius: 100px;
 	transition: 0.3s ease-in-out;
 	position: relative;
@@ -342,6 +342,7 @@ body{
 	letter-spacing: -0.05em;
 	font-weight: 700;
 	margin-bottom: 0;
+   
    
 }
 
@@ -3412,4 +3413,8 @@ header.main-header .header-sticky.active{
     .error-page-content-heading{
         margin-bottom: 30px;
     }
+}
+
+#gradi{
+
 }
