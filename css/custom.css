@@ -1189,14 +1189,14 @@ header.main-header .header-sticky.active{
 	font-size: 22px;
 	font-weight: 700;
 	color: var(--primary-color);
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 	margin-bottom: 20px;
 }
 
 .footer-links h2{
 	font-size: 22px;
 	color: var(--primary-color);
-	text-transform: capitalize;
+	/* text-transform: capitalize; */
 	margin-bottom: 20px;
 }
 
